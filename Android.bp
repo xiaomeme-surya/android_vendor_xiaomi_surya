@@ -6161,7 +6161,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libmpbase",
+	name: "libmpbase.so_surya",
+	stem: "libmpbase",
 	owner: "xiaomi",
 	strip: {
 		none: true,

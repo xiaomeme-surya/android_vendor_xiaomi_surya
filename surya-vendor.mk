@@ -339,7 +339,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
-    sound_trigger.primary.sm6150 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     libFileMux_proprietary \
     libMpeg4SwEncoder \
